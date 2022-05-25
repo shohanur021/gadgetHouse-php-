@@ -1,0 +1,48 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.logo-design{
+    margin-left: 8px;
+    color:#ff4e00;   
+    /* color:rgb(230, 86, 43);   */
+   font-weight: 600;
+   text-shadow: 1px 1px #f8f2f2;
+}
+
+.carouselStyle{
+    background-color: #c3dff1;
+}
+
+.price-color{
+    color:rgb(230, 77, 17)!important;
+}
+
+#mobile-section>h2, #headphone-section>h2, #smart-watch-section>h2{
+    color:#1e3d59;
+}
+
+.font-1{
+    font-size: 13px;
+}
+
+.font-2{
+    font-size: 12px;
+}
+
+
+#removeBtn{
+    border-radius: 4px;
+    background-color:#ca0f0f;
+    color:#ffffff;
+}
+
+footer{
+    padding:12px 0px;
+    background-color:#282531;
+    margin-bottom:0px
+}
+
+footer p{
+   font-size:12px;
+}

@@ -1,0 +1,37 @@
+.mobile-img{
+    height: 65%;
+}
+
+@media (max-width: 765px){
+    .mobile-img{
+        height: 50%;
+    }
+}
+
+@media (max-width: 575px){
+    .mobile-img{
+        height: 38%;
+    }
+}
+
+.details p span{
+   color:rgb(136, 140, 145);
+}
+
+.details p {
+    margin-bottom: 0px;
+    color:rgb(30, 30, 31);
+    font-size: 14px;
+ }
+
+.details h5{
+    margin-top: 20px;
+    color:rgb(129, 74, 218);
+}
+
+.details h3{
+    color:rgb(228, 24, 24);
+}
+
+
+

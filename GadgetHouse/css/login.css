@@ -1,0 +1,30 @@
+.login-container{
+    background-image: linear-gradient(to right, #bbd2c5 , #536976,#292e49);
+}
+
+.login-form{
+    width: 400px;
+    border:1px solid rgb(151, 151, 151);
+    padding:25px;
+    box-shadow: rgb(247, 244, 244) 0px 1px 4px;
+}
+
+.login-form p{
+  color:rgba(175, 6, 20, 0.856);
+  font-size:13px;
+}
+
+.login-form label{
+    color:rgb(126, 123, 123);
+}
+
+.login-form a{
+    text-decoration: none;
+}
+
+.login-form a p{
+    color:rgb(70, 123, 236);
+    text-align: center;
+}
+
+  
